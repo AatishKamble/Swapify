@@ -1,0 +1,269 @@
+[
+  {
+    "_id": "67bc4709c22bd886eecf5f97",
+    "name": "Books & Study Materials",
+    "level": 1
+  },
+  {
+    "_id": "67bc4709c22bd886eecf5f98",
+    "name": "Electronic",
+    "level": 1
+  },
+  {
+    "_id": "67bc4709c22bd886eecf5f99",
+    "name": "Photography & Videography",
+    "level": 1
+  },
+  {
+    "_id": "67bc4709c22bd886eecf5f9a",
+    "name": "Clothing & Accessories",
+    "level": 1
+  },
+  {
+    "_id": "67bc4709c22bd886eecf5f9b",
+    "name": "Furniture & Home Essentials",
+    "level": 1
+  },
+  {
+    "_id": "67bc4709c22bd886eecf5f9c",
+    "name": "Gaming & Accessories",
+    "level": 1
+  },
+  {
+    "_id": "67bc4709c22bd886eecf5f9d",
+    "name": "Sports & Fitness",
+    "level": 1
+  },
+  {
+    "_id": "67bc4709c22bd886eecf5f9e",
+    "name": "Toy",
+    "level": 1
+  },
+  {
+    "_id": "67bc4709c22bd886eecf5f9f",
+    "name": "Miscellaneous",
+    "level": 1
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa0",
+    "name": "Fiction",
+    "parentCategory": "67bc4709c22bd886eecf5f97",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa1",
+    "name": "Non-fiction",
+    "parentCategory": "67bc4709c22bd886eecf5f97",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa2",
+    "name": "Fantasy",
+    "parentCategory": "67bc4709c22bd886eecf5f97",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa3",
+    "name": "Textbooks & Reference Books",
+    "parentCategory": "67bc4709c22bd886eecf5f97",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa4",
+    "name": "Notebooks & Stationery",
+    "parentCategory": "67bc4709c22bd886eecf5f97",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa5",
+    "name": "Mobile Phones & Tablets",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa6",
+    "name": "Laptops & Accessories",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa7",
+    "name": "Cameras",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa8",
+    "name": "Headphones & Speakers",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fa9",
+    "name": "Smartwatches & Gadgets",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5faa",
+    "name": "Desktops & Monitors",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fab",
+    "name": "Keyboards & Mice",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fac",
+    "name": "Wi-Fi Routers & Modems",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fad",
+    "name": "Cables & Adapters",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fae",
+    "name": "USB Hubs",
+    "parentCategory": "67bc4709c22bd886eecf5f98",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5faf",
+    "name": "DSLR & Mirrorless Cameras",
+    "parentCategory": "67bc4709c22bd886eecf5f99",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb0",
+    "name": "Camera Accessories",
+    "parentCategory": "67bc4709c22bd886eecf5f99",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb1",
+    "name": "Lighting & Studio Equipment",
+    "parentCategory": "67bc4709c22bd886eecf5f99",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb2",
+    "name": "Formal Wear",
+    "parentCategory": "67bc4709c22bd886eecf5f9a",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb3",
+    "name": "Casual Wear",
+    "parentCategory": "67bc4709c22bd886eecf5f9a",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb4",
+    "name": "Shoes & Bags",
+    "parentCategory": "67bc4709c22bd886eecf5f9a",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb5",
+    "name": "Desks & Chairs",
+    "parentCategory": "67bc4709c22bd886eecf5f9b",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb6",
+    "name": "Beds & Mattresses",
+    "parentCategory": "67bc4709c22bd886eecf5f9b",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb7",
+    "name": "Kitchen Appliances",
+    "parentCategory": "67bc4709c22bd886eecf5f9b",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb8",
+    "name": "Gaming Consoles & Controllers",
+    "parentCategory": "67bc4709c22bd886eecf5f9c",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fb9",
+    "name": "VR Headsets & Simulators",
+    "parentCategory": "67bc4709c22bd886eecf5f9c",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fba",
+    "name": "Gaming Chairs & Desks",
+    "parentCategory": "67bc4709c22bd886eecf5f9c",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fbb",
+    "name": "Dumbbells & Resistance Bands",
+    "parentCategory": "67bc4709c22bd886eecf5f9d",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fbc",
+    "name": "Yoga Mats & Foam Rollers",
+    "parentCategory": "67bc4709c22bd886eecf5f9d",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fbd",
+    "name": "Footballs & Basketballs",
+    "parentCategory": "67bc4709c22bd886eecf5f9d",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fbe",
+    "name": "Cricket Bats & Kits",
+    "parentCategory": "67bc4709c22bd886eecf5f9d",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fbf",
+    "name": "Badminton & Tennis Rackets",
+    "parentCategory": "67bc4709c22bd886eecf5f9d",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fc0",
+    "name": "Action Figures",
+    "parentCategory": "67bc4709c22bd886eecf5f9e",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fc1",
+    "name": "Board Games",
+    "parentCategory": "67bc4709c22bd886eecf5f9e",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fc2",
+    "name": "Puzzles",
+    "parentCategory": "67bc4709c22bd886eecf5f9e",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fc3",
+    "name": "Sports & Fitness Equipment",
+    "parentCategory": "67bc4709c22bd886eecf5f9f",
+    "level": 2
+  },
+  {
+    "_id": "67bc4877c22bd886eecf5fc4",
+    "name": "Hobby & Musical Instruments",
+    "parentCategory": "67bc4709c22bd886eecf5f9f",
+    "level": 2
+  }
+]

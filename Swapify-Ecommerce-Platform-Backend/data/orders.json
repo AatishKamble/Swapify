@@ -1,0 +1,21 @@
+[
+  {
+    "paymentDetails": {
+      "paymentMethod": "COD",
+      "paymentId": null,
+      "paymentStatus": "PENDING"
+    },
+    "_id": "67f1142695882fbf4d143714",
+    "user": "67ebefbae16f3d35ee9086fc",
+    "orderItems": [
+      "67f1142695882fbf4d1436e2",
+      "67f1142695882fbf4d1436fb"
+    ],
+    "shippingAddress": "67f0cce98a52db3a158932b8",
+    "orderStatus": "PLACED",
+    "totalPrice": 80198,
+    "totalItems": 2,
+    "orderDate": "2025-04-05T11:29:42.436Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "67f1142695882fbf4d1436e2",
+    "product": "67ca856754a7c92315b1f791",
+    "price": 70198,
+    "quantity": 1,
+    "user": "67ebefbae16f3d35ee9086fc",
+    "__v": 0
+  },
+  {
+    "_id": "67f1142695882fbf4d1436fb",
+    "product": "67cbeab1ebff12b638cf2cc7",
+    "price": 10000,
+    "quantity": 1,
+    "user": "67ebefbae16f3d35ee9086fc",
+    "__v": 0
+  }
+]

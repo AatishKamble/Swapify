@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "6613e46c8b65527cd68c6773",
+    "user": "6613e46c8b65527cd68c6771",
+    "cartItems": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 58
+  },
+  {
+    "_id": "6615230c13c85f0d752f1aef",
+    "user": "6615230c13c85f0d752f1aed",
+    "cartItems": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 0
+  },
+  {
+    "_id": "6732e0350380efe95c5bcb6a",
+    "user": "6732e0350380efe95c5bcb68",
+    "cartItems": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 0
+  },
+  {
+    "_id": "6785f69d1319597a78374ea2",
+    "user": "6785f69d1319597a78374ea0",
+    "cartItems": [
+      "67c815472d3b90010ac58cce",
+      "67cac0b3a836e43e802198f2",
+      "67cbeadeebff12b638cf2d31",
+      "67e69d1a6c2cd252aaa50ebf",
+      "67e7900ec3413a27f561b31d"
+    ],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 7
+  },
+  {
+    "_id": "6791cfe1dd50d69b02727767",
+    "user": "6791cfe1dd50d69b02727765",
+    "cartItems": [
+      "6791d066dd50d69b02727799",
+      "6791d165dd50d69b027277f7"
+    ],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 2
+  },
+  {
+    "_id": "67a789e70c335700576cdde1",
+    "user": "67a789e70c335700576cdddf",
+    "cartItems": [
+      "67ca818d2552b08d1025e7e8",
+      "67ca8e6484bde30ff2fcaf1b"
+    ],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 124
+  },
+  {
+    "_id": "67a84e5ca4bac585b8878571",
+    "user": "67a84e5ca4bac585b887856f",
+    "cartItems": [
+      "67ca7880060804ea22b111a6"
+    ],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 3
+  },
+  {
+    "_id": "67a85182839220682f6e8305",
+    "user": "67a85181839220682f6e8303",
+    "cartItems": [
+      "67eb7267b207c59262b4b3c3",
+      "67eb726db207c59262b4b424",
+      "67eb7647b207c59262b4b88a",
+      "67eb7d1fee705515d903aa10",
+      "67eb7d25ee705515d903aa88",
+      "67eb7d2fee705515d903ab7a"
+    ],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 128
+  },
+  {
+    "_id": "67a859dfbe8ff8a7e735dd70",
+    "user": "67a859dfbe8ff8a7e735dd6e",
+    "cartItems": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 0
+  },
+  {
+    "_id": "67a85d67839220682f6e83f1",
+    "user": "67a85d67839220682f6e83ef",
+    "cartItems": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 0
+  },
+  {
+    "_id": "67a882d6be8ff8a7e735ddaa",
+    "user": "67a882d6be8ff8a7e735dda8",
+    "cartItems": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 0
+  },
+  {
+    "_id": "67bae007fd8c664b3c8cdce4",
+    "user": "67bae007fd8c664b3c8cdce2",
+    "cartItems": [
+      "67bc4edd9570421ea84eeefc"
+    ],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 1
+  },
+  {
+    "_id": "67c9689850e98d921dea9a9d",
+    "user": "67c9689850e98d921dea9a9b",
+    "cartItems": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 0
+  },
+  {
+    "_id": "67ebefbae16f3d35ee9086fe",
+    "user": "67ebefbae16f3d35ee9086fc",
+    "cartItems": [],
+    "totalPrice": 0,
+    "totalItems": 0,
+    "__v": 6
+  }
+]

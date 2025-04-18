@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "67e96095fc69373a6586286a",
+    "user": "67a85181839220682f6e8303",
+    "wishlistItems": [
+      "67ea0eee1ba7c23774216b0b",
+      "67ea12071ba7c23774219d6c"
+    ],
+    "totalItems": 2,
+    "__v": 48
+  },
+  {
+    "_id": "67ebf047e16f3d35ee908722",
+    "user": "67ebefbae16f3d35ee9086fc",
+    "wishlistItems": [],
+    "totalItems": 0,
+    "__v": 0
+  }
+]

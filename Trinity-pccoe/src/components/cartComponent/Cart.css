@@ -1,0 +1,38 @@
+.cart{
+width: 18rem;
+height:20rem; 
+ background-color: #eedcdc; 
+padding: 0.5rem;
+position: relative;
+
+}
+
+.cart img{
+object-fit: cover;
+   height: 200px;
+   width: 100%;
+}
+
+.Itemdetail{
+
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    
+}
+.amt{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align:middle;
+    padding:10px 0px;
+    margin: 0%;
+    
+}
+.desc{
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Cart-info{
+    
+}
